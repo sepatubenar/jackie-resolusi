@@ -3,9 +3,11 @@ RENCANA
 -Javascript
 *ES6
 *Framework Javascript
-  ^Angular
+  ^Vue
   ^React
+*struktur data dasar
 -PHP Frameworkk
   ^Laravel
 -Interviews
 -Vlogs
+-PHyton

@@ -1,6 +1,8 @@
 RENCANA
 
 -Javascript
+*ES6
+*Framework Javascript
 -PHP Frameworkk
 -Interviews
 -Vlogs
